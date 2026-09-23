@@ -1,0 +1,42 @@
+﻿Age,Treatment,Dosage
+20,Chloroquine,Chloroquine standard regimen
+20,Primaquine,Primaquine 15 mg daily x 14 days
+20,Paracetamol,Paracetamol as needed for fever
+20,Coartem,Coartem 4 tablets twice daily for 3 days
+20,Diclofenac,50 mg orally as needed for pain
+20,Ciprofloxacin,500 mg orally twice daily for 5–10 days
+26,Ciprofloxacin,500 mg orally twice daily for 5–10 days
+23,Diclofenac,50 mg orally as needed for pain
+22,Ciprofloxacin,Ciprofloxacin 500 mg twice daily for 5 days
+22,Paracetamol,Paracetamol as needed
+21,Ciprofloxacin,Ciprofloxacin 500 mg twice daily for 5 days
+21,Diclofenac,Diclofenac 50 mg as needed
+21,Ciprofloxacin,500 mg orally twice daily for 5 days
+21,Chloroquine,Chloroquine 4-4-2 regimen
+23,Chloroquine,Chloroquine 4-4-2 regimen
+23,Primaquine,Primaquine 15 mg daily x 14 days
+22,Ciprofloxacin,500 mg twice daily for 7 days
+22,Paracetamol,Paracetamol as needed for fever
+23,Artesunate,Artesunate injection as per protocol
+23,Diclofenac,Diclofenac 75 mg IM
+20,Cimetidine,Cimetidine IV injection
+20,Glucose IV,40% Glucose IV solution
+22,Cephalexin,Cephalexin 500 mg twice daily for 5 days
+22,Chlorpheniramine,Chlorpheniramine twice daily
+22,Diclofenac,Diclofenac as needed
+22,Paracetamol,1 g orally as needed for fever or pain
+23,Ciprofloxacin,Ciprofloxacin 500 mg BID x 5 days
+23,Metronidazole,Metronidazole 500 mg TID x 5 days
+23,Cough Syrup,Cough syrup as needed
+21,Ciprofloxacin,500 mg orally twice daily for 7 days
+22,Ciprofloxacin,Ciprofloxacin 500 mg twice daily
+22,ORS,ORS oral hydration as needed
+20,Metronidazole,Metronidazole 500 mg TID
+20,ORS,ORS hydration
+25,Ciprofloxacin,500 mg twice daily for 5 days
+21,Metronidazole,500 mg three times daily for 5–7 days
+21,Tinidazole,2 g single oral dose
+22,Albendazole,400 mg single dose or daily for 3 days
+25,Mebendazole,100 mg twice daily for 3 days
+23,Azithromycin,Azithromycin 500 mg daily for 3 days
+23,Chlorpheniramine,Chlorpheniramine twice daily
