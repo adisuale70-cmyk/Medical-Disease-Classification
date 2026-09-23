@@ -27,11 +27,11 @@ model = joblib.load("final_model.pkl")
 # LOAD DATASETS
 # =========================================================
 
-description = pd.read_csv("/content/ Description.csv")
-precaution = pd.read_csv("/content/Precaution.csv")
-dosage = pd.read_csv("/content/Dosage.csv")
-diets = pd.read_csv("/content/Diets.csv")
-medication = pd.read_csv("/content/Medication.csv")
+description = pd.read_csv("Description.csv")
+precaution = pd.read_csv("Precaution.csv")
+dosage = pd.read_csv("Dosage.csv")
+diets = pd.read_csv("Diets.csv")
+medication = pd.read_csv("Medication.csv")
 
 
 # =========================================================
