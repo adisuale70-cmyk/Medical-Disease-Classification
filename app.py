@@ -20,7 +20,7 @@ st.set_page_config(
 # LOAD MODEL
 # =========================================================
 
-model = joblib.load("/content/final_model.pkl")
+model = joblib.load("final_model.pkl")
 
 
 # =========================================================
