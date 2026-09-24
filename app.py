@@ -258,7 +258,7 @@ st.title("🩺 Medical Disease Classification System")
 st.markdown(
     """
 
-   # A machine-learning application that classifies
+    A machine-learning application that classifies
     disease categories from **patient age and reported symptoms**
     and retrieves supporting information from the provided dataset.
     """
