@@ -363,27 +363,20 @@ with col1:
         use_container_width=True
     )
 
+def reset_symptoms():
+    for index in range(len(symptoms)):
+        st.session_state[f"symptom_{index}"] = False
+
+
 with col2:
 
-    reset_button = st.button(
+    st.button(
         "🔄 Reset Symptoms",
-        use_container_width=True
+        use_container_width=True,
+        on_click=reset_symptoms
     )
 
 
-# =========================================================
-# RESET
-# =========================================================
-
-if reset_button:
-
-    for index in range(len(symptoms)):
-
-        st.session_state[
-            f"symptom_{index}"
-        ] = False
-
-    st.rerun()
 
 
 # =========================================================
